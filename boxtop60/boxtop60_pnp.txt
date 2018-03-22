@@ -1,0 +1,45 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=boxtop60
+*Date=20:18:33
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;49.9886;-38.8644;0;Bottom;Via6
+2;;;2.97272;-3.19855;0;Bottom;Hole4
+3;;;2.96341;-53.0108;0;Bottom;Hole3
+4;;rca_lock;6.84391;-27.94;180;Bottom;V
+5;;;53.0008;-17.5818;0;Bottom;Via8
+6;;THT;80.5508;-22.0135;-90;Bottom;ROM
+7;;;67.1505;-16.9665;-90;Bottom;IMG4
+8;;300 mil [THT];29.6568;-3.2849;0;Bottom;D2
+9;;;64.7371;-35.5694;0;Bottom;Hole1
+10;;THT;80.5742;-45.7435;-90;Bottom;POWER
+11;;THT;9.51944;-8.23141;-90;Bottom;S1
+12;;;56.4772;-27.4937;0;Bottom;Via5
+13;;;53.7578;-27.9522;0;Bottom;IMG3
+14;;THT;36.9523;-32.1545;0;Bottom;U4R
+15;;THT;9.51944;-5.69141;-90;Bottom;POLARITY
+16;;rca_lock;6.82161;-40.7231;180;Bottom;A
+17;;;45.9754;-22.5007;0;Bottom;Via7
+18;;;86.929;-3.22198;0;Bottom;Hole6
+19;;THT;74.8265;-41.9759;-90;Bottom;J1
+20;;THT;20.9627;-32.1525;0;Bottom;U4L
+21;;5 mm [THT];79.9586;-10.2351;90;Bottom;D1
+22;;THT;83.5379;-16.0868;0;Bottom;D1
+23;;[THT];80.5273;-33.8902;0;Bottom;RESET
+24;;;53.2316;-30.8846;0;Bottom;Via10
+25;;;29.7133;-12.2438;0;Bottom;Hole2
+26;;TSOP56;50.7271;-30.8857;90;Top;U5
+27;;;86.9197;-53.0343;0;Bottom;Hole5
+28;;THT;42.0182;-12.9268;-90;Bottom;J2
+29;;;8.12681;-15.7975;180;Bottom;5VDC
+30;;;54.2547;-43.8327;0;Bottom;Via3
